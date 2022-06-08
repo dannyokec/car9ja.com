@@ -994,7 +994,7 @@ header.header-nav a.navbar_brand {
   -o-box-shadow: 0px 1px 4px 0px rgba(0, 0, 0, 0.09);
   box-shadow: 0px 1px 4px 0px rgba(0, 0, 0, 0.09);
 }
-header.header-nav a.navbar_brand .logo2{
+header.header-nav a.navbar_brand .logo2,header.header-nav a.navbar_brand span{
   display: none;
 }
 header.header-nav.menu_style_home_one ul.ace-responsive-menu li.add_listing{
@@ -11185,7 +11185,7 @@ a.btn.btn_error{
   display: none;
 }
 .header_user_notif .user_notif .simplebar-offset::-webkit-scrollbar-thumb {
-  background-color: #dfdfdf !important; // manage scrollbar thumb background color here
+  background-color: #dfdfdf !important; 
   border-radius: 6px;
 }
 .simplebar-placeholder {
