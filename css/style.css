@@ -2452,10 +2452,10 @@ header.header-nav.menu_style_home_seven .ace-responsive-menu > li.last{
 .home1-advnc-search ul li .search_option_button button{
   border-radius: 8px;
   background-color: #043122;
-  -webkit-box-shadow:0px 1px 4px 0px rgba(255, 90, 95, 0.3);
-  -moz-box-shadow:0px 1px 4px 0px rgba(255, 90, 95, 0.3);
-  -o-box-shadow:0px 1px 4px 0px rgba(255, 90, 95, 0.3);
-  box-shadow:0px 1px 4px 0px rgba(255, 90, 95, 0.3);
+  -webkit-box-shadow:0px 1px 4px 0px rgba(3, 38, 4, 0.3);
+  -moz-box-shadow:0px 1px 4px 0px rgba(3, 38, 4, 0.3);
+  -o-box-shadow:0px 1px 4px 0px rgba(3, 38, 4, 0.3);
+  box-shadow:0px 1px 4px 0px rgba(3, 38, 4, 0.3);
   font-size: 16px;
   color: #ffffff;
   font-weight: bold;
@@ -3507,7 +3507,7 @@ form.home5_advanced_search_form .form-group input.form-control::-ms-input-placeh
   top: 0;
 }
 .home1_bgi1{
-  background-image: url(../images/background/bk\ \(6\).jpg);
+  background-image: url(../images/background/header_img.jpg);
   -webkit-background-size: cover;
   background-size: cover;
   background-position: center center;
@@ -3518,8 +3518,8 @@ form.home5_advanced_search_form .form-group input.form-control::-ms-input-placeh
 }
 .home1-overlay:before {
   content: "";
-  background-color: rgb(29, 41, 62);
-  opacity: 0.6;
+  background-color: rgb(2, 35, 8);
+  opacity: 0.9;
   position: absolute;
   bottom: 0;
   left: 0;
@@ -6019,7 +6019,7 @@ form.home5_advanced_search_form .form-group input.form-control::-ms-input-placeh
   background-color: #1d293e;
 }
 .our-testimonial:before{
-  background-image: url("../images/background/bk\ \(2\).jpg");
+  background-image: url("../images/background/header_img.jpg");
   bottom: 0;
   content: "";
   left: 0;
@@ -13372,8 +13372,8 @@ a.btn.btn_error{
   outline: none;
 }
 .btn-thm {
-  background-color: #ff5a5f;
-  border: 2px solid #ff5a5f;
+  background-color: #28a745;
+  border: 2px solid #28a745;
   border-radius: 5px;
   color: #ffffff;
   -webkit-transition: all 0.3s ease;
@@ -13381,7 +13381,7 @@ a.btn.btn_error{
   transition: all 0.3s ease;}
 
 .btn-thm.rounded {
-  background-color: #ff5a5f;
+  background-color: #28a745;
   border-radius: 5px;
   color: #ffffff;}
 
